@@ -1,43 +1,57 @@
-# Hi there, I'm bimri 👋
+# Hi there, I'm bimri 👋🏾
 
-I build at the intersection of AI engineering, product design, and lucid writing.
+> I build where AI engineering, product design, and lucid writing meet.
 
-- Founder of **Nietzsche**: a multi-agent learning OS for autodidacts  
-- AI engineer focused on low-resource languages, bias-aware systems, and practical ML  
-- Writer and poet exploring philosophy, Africa, and intelligence design
+[![Portfolio](https://img.shields.io/badge/Portfolio-bimri.net-111111?style=for-the-badge)](https://bimri.net)
+[![Writing](https://img.shields.io/badge/Writing-bimri.org-111111?style=for-the-badge)](https://bimri.org)
+[![Product](https://img.shields.io/badge/Product-Nietzsche-111111?style=for-the-badge)](https://nietzsche.bimri.net)
 
-## What I'm building
+---
+
+## About
+
+- Founder of **Nietzsche** - a multi-agent learning OS for autodidacts
+- AI engineer focused on low-resource language systems and applied ML
+- Writer and poet exploring intelligence, philosophy, and African thought
+
+## Building Now
 
 ### Nietzsche
-A multi-agent AI learning system that gives autodidacts:
+
+A multi-agent AI system that helps self-directed learners with:
+
 - personal curriculums
 - durable study artifacts
-- spatial maps to connect knowledge over time
+- spatial maps that reveal how knowledge connects over time
 
-Live product: `https://nietzsche.bimri.net/`
+Live demo: **[nietzsche.bimri.net](https://nietzsche.bimri.net)**
 
-## Core strengths
+## Core Strengths
 
 - AI and ML systems engineering
-- Prompt architecture and product writing
-- Full-stack execution from idea to deployment
-- Design taste in UX, visual hierarchy, and interaction feel
-- Rapid solo shipping with clear technical ownership
+- Prompt architecture and model-facing writing
+- Full-stack execution from concept to deployment
+- UX and visual design taste with strong product intuition
+- Fast solo shipping with end-to-end ownership
 
-## Selected work
+## Selected Work
 
-- `Precious` tokenizer-free NLP library: `https://github.com/bimri/precious`
-- AI language work with Meta FAIR (Omnilingual ASR context)
-- Bias detection and correction systems in applied ML settings
+- **Precious** (tokenizer-free NLP library): [github.com/bimri/precious](https://github.com/bimri/precious)
+- Language work in the Meta FAIR Omnilingual ASR context
+- Applied bias detection and correction in ML pipelines
 
-## Writing
+## Writing and Ideas
 
-I have published consistently since 2016 across AI, philosophy, African thought, and culture.  
-Read: `https://bimri.org/`
+I have published consistently since 2016 on AI, philosophy, African narratives, and culture.
+
+- Writing archive: [bimri.org](https://bimri.org)
+- Portfolio: [bimri.net](https://bimri.net)
+
+---
 
 ## Connect
 
-- GitHub: `https://github.com/bimri`
-- Website: `https://bimri.net` | `https://bimri.org`
-- X: `https://x.com/bimrian`
-- LinkedIn: `https://linkedin.com/in/bimri`
+- GitHub: [github.com/bimri](https://github.com/bimri)
+- X: [x.com/bimrian](https://x.com/bimrian)
+- LinkedIn: [linkedin.com/in/bimri](https://linkedin.com/in/bimri)
+  
