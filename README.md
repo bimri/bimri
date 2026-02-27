@@ -37,7 +37,7 @@ Live demo: **[nietzsche.bimri.net](https://nietzsche.bimri.net)**
 ## Selected Work
 
 - **Precious** (tokenizer-free NLP library): [github.com/bimri/precious](https://github.com/bimri/precious)
-- Language work in the Meta FAIR Omnilingual ASR context
+- Contributed African language data in the Meta FAIR Omnilingual ASR context ([Meta announcement](https://ai.meta.com/blog/omnilingual-asr-advancing-automatic-speech-recognition/))
 - Applied bias detection and correction in ML pipelines
 
 ## Writing and Ideas
@@ -54,4 +54,3 @@ I have published consistently since 2016 on AI, philosophy, African narratives, 
 - GitHub: [github.com/bimri](https://github.com/bimri)
 - X: [x.com/bimrian](https://x.com/bimrian)
 - LinkedIn: [linkedin.com/in/bimri](https://linkedin.com/in/bimri)
-  
