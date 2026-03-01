@@ -24,7 +24,7 @@ A multi-agent AI system that helps self-directed learners with:
 - durable study artifacts
 - spatial maps that reveal how knowledge connects over time
 
-Live demo: **[nietzsche.bimri.net](https://nietzsche.bimri.net)**
+Live on: **[nietzsche.bimri.net](https://nietzsche.bimri.net)**
 
 ## Core Strengths
 
