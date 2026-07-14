@@ -75,5 +75,5 @@ I have published consistently since 2016 on AI, philosophy, African narratives, 
 ## Connect
 
 - GitHub: [github.com/bimri](https://github.com/bimri)
-- X: [x.com/bimrian](https://x.com/bimr1)
+- X: [x.com/bimri](https://x.com/bimr1)
 - LinkedIn: [linkedin.com/in/bimri](https://linkedin.com/in/bimri)
